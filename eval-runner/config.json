@@ -1,0 +1,4 @@
+{
+  "model": "minimax/MiniMax-M2.5",
+  "_comment": "Model to use when spawning subagents for eval runs. Change this to any model supported by your OpenClaw setup. Examples: anthropic/claude-sonnet-4-6, openai/gpt-4o, minimax/MiniMax-M2.5"
+}
