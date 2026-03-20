@@ -2,7 +2,7 @@
 
 对任意 OpenClaw 技能运行结构化评测，衡量技能的实际效果。
 
-[🇬🇧 English](./README.md)
+[English](./README.md)
 
 ---
 

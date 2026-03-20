@@ -2,7 +2,7 @@
 
 Run structured evaluations on any OpenClaw skill to measure its effectiveness.
 
-[🇨🇳 中文版](./README_CN.md)
+[中文版](./README_CN.md)
 
 ---
 

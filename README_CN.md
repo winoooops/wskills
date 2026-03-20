@@ -2,23 +2,23 @@
 
 一组用于 [OpenClaw](https://github.com/openclaw/openclaw) 智能体的技能集合。
 
-[🇬🇧 English](./README.md)
+[English](./README.md)
 
 ---
 
 ## 技能列表
 
-| 技能 | 描述 |
-|------|------|
-| [eval-runner](./eval-runner/) | 对任意技能运行结构化评测 |
+### eval-runner
+
+对任意 OpenClaw 技能运行结构化评测。分别生成带技能和不带技能的子智能体进行对比，衡量时间、token 消耗和成功率。适用于技能开发和优化。
+
+➡️ [详情](./eval-runner/)
 
 ---
 
 ## 使用方法
 
-### 安装技能
-
-将技能文件夹复制到你的 OpenClaw 技能目录：
+将技能文件夹复制到你的 OpenClaw 技能目录即可安装。以安装 `eval-runner` 为例：
 
 ```bash
 cp -r eval-runner ~/.openclaw/skills/
@@ -29,8 +29,6 @@ cp -r eval-runner ~/.openclaw/skills/
 ```bash
 ln -s $(pwd)/eval-runner ~/.openclaw/skills/eval-runner
 ```
-
-### 验证
 
 技能放入目录后，应该会出现在你的智能体可用技能列表中。
 
