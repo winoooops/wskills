@@ -34,6 +34,12 @@ ln -s $(pwd)/eval-runner ~/.openclaw/skills/eval-runner
 
 ---
 
+## 关于 README 文件
+
+每个技能文件夹中的 `README.md` 和 `README_CN.md` 仅供人类阅读。OpenClaw 智能体只会读取 `SKILL.md`，不会加载这些文件。如果你希望保持技能目录精简，复制后可以放心删除这些 README。
+
+---
+
 ## 贡献
 
 欢迎提交 issue 或 PR 来添加新技能或改进现有技能。

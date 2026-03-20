@@ -34,6 +34,12 @@ The skill should appear in your agent's available skills list once placed in the
 
 ---
 
+## Note on README Files
+
+The `README.md` and `README_CN.md` files in each skill folder are for human reference only. OpenClaw agents only read `SKILL.md` and will not load these files. However, if you want to keep your skills directory minimal, feel free to delete the READMEs after copying.
+
+---
+
 ## Contributing
 
 Feel free to open issues or PRs for new skills or improvements.
