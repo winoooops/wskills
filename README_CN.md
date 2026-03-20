@@ -1,6 +1,6 @@
 # wskills
 
-一组用于 [OpenClaw](https://github.com/openclaw/openclaw) 智能体的技能集合。
+一组有态度的 AI 智能体技能集合。
 
 [English](./README.md)
 

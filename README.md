@@ -1,6 +1,6 @@
 # wskills
 
-A collection of skills for [OpenClaw](https://github.com/openclaw/openclaw) agents.
+An opinionated collection of AI agent skills.
 
 [中文版](./README_CN.md)
 
