@@ -1,6 +1,6 @@
 # wskills
 
-一组有态度的 AI 智能体技能集合。
+一组带有个人风格的 AI 智能体技能集合。
 
 [English](./README.md)
 
