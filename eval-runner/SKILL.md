@@ -1,7 +1,7 @@
 ---
 name: eval-runner
 description: Run structured evals on any skill. Reads evals.json, spawns subagents with/without skill, collects results, and generates a grading report.
-author: cthulhu
+author: winoooops
 version: "1.0.0"
 tags:
   - eval
