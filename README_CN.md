@@ -14,6 +14,12 @@
 
 ➡️ [详情](./eval-runner/)
 
+### youtube-transcript
+
+下载 YouTube 视频字幕、封面图。支持多语言、章节分段、说话人识别和 SRT 输出。基于 [baoyu-youtube-transcript](https://github.com/JimLiu/baoyu-skills) 精简重写 — SKILL.md 缩小 62%，正确性完全一致。
+
+➡️ [详情](./youtube-transcript/)
+
 ---
 
 ## 使用方法

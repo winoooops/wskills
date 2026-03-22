@@ -1,6 +1,6 @@
 ---
 name: eval-runner
-description: Run structured evals on any skill. Reads evals.json, spawns subagents with/without skill, collects results, and generates a grading report.
+description: Run structured evals on any skill. Use when user says "run evals", "test this skill", "benchmark skill", or wants to compare skill performance with/without context. Reads evals.json, spawns subagents, and generates a grading report.
 author: winoooops
 version: "1.0.0"
 tags:

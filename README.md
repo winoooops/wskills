@@ -14,6 +14,12 @@ Run structured evals on any OpenClaw skill. Spawns subagents with and without th
 
 ➡️ [Details](./eval-runner/)
 
+### youtube-transcript
+
+Download YouTube video transcripts, subtitles, and cover images. Supports multiple languages, chapters, speaker identification, and SRT output. Slim rewrite of [baoyu-youtube-transcript](https://github.com/JimLiu/baoyu-skills) — 62% smaller SKILL.md with identical correctness.
+
+➡️ [Details](./youtube-transcript/)
+
 ---
 
 ## Usage
